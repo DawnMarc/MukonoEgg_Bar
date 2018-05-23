@@ -2,7 +2,7 @@
 
 ## About this application
 
-Created by MarkDawn[PyDawn]....some of the content in this project was provided by MD INZAMUL HAQUE.
+Created by **MarkDawn**[_`PyDawn`_]....some of the content in this project was provided by **_Inzamul Haque_**.
 ##### Framework: Django 1.10.1
 ##### Language : Python 3.6
 
@@ -14,11 +14,8 @@ Created by MarkDawn[PyDawn]....some of the content in this project was provided 
 - Search Order
 - Print Invoice
 - Easy interface
-- Mobile view
+- Add egg collection data
 
-## Applicability
-* Restaurant Order
-* etc...
 
 ### Contact me 
 Twitter: @xxendiwala <br>
