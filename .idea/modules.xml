@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/DOMS.iml" filepath="$PROJECT_DIR$/.idea/DOMS.iml" />
+      <module fileurl="file://E:\Children Of Candy Peppers\Effortless\MukonoEgg Bar-Master\.idea\DOMS.iml" filepath="E:\Children Of Candy Peppers\Effortless\MukonoEgg Bar-Master\.idea\DOMS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MukonoEgg Bar-Master.iml" filepath="$PROJECT_DIR$/.idea/MukonoEgg Bar-Master.iml" />
     </modules>
   </component>
 </project>
