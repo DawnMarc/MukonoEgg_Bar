@@ -1,1 +1,1 @@
-web: gunicorn bootcamp.wsgi --log-file -
+web: gunicorn MukonoEgg_Bar.wsgi --log-file -
