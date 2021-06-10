@@ -9,7 +9,7 @@ confusable-homoglyphs==3.2.0
 coverage==5.3
 cycler==0.10.0
 distlib==0.3.1
-Django==2.2.17
+Django==2.2.24
 django-booking==0.7.2
 django-countries==7.0
 django-crispy-forms==1.10.0
