@@ -59,7 +59,7 @@ pypiwin32==223
 python-dateutil==2.8.1
 python-gettext==4.0
 pytz==2020.4
-pywin32==300
+pywin32==301
 recaptcha==1.0rc1
 requests==2.25.0
 requests-auth==5.2.0
