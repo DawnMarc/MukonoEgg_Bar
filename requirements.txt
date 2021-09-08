@@ -47,7 +47,7 @@ olefile==0.46
 openpyxl==3.0.5
 packaging==20.8
 pandas==1.1.5
-Pillow==8.0.1
+Pillow==8.3.2
 pipenv==2020.11.15
 pluggy==0.13.1
 py==1.10.0
