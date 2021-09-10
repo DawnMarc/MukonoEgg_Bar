@@ -68,7 +68,7 @@ Send2Trash==1.5.0
 six==1.15.0
 soupsieve==2.1
 splinter==0.14.0
-sqlparse==0.4.1
+sqlparse==0.4.2
 tablib==3.0.0
 toml==0.10.2
 tox==3.20.1
